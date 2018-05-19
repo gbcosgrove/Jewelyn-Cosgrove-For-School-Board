@@ -1,0 +1,47 @@
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+
+  <a class="navbar-brand" href="#">
+    <img src="/assets/images/jc-forschoolboard.png" alt="">
+  </a>
+
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul class="navbar-nav ml-auto">
+      <!-- <li class="nav-item">
+        <a class="nav-link" href="#">Meet Jewelyn</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#">Issues</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#">Join Us</a>
+        <button type="button" class="btn btn-primary">Donate</button>
+      </li> -->
+      <li class="nav-item">
+        <a href="https://airtable.com/shr58SNAedzRg6MIb" target="_blank"><button type="button" class="btn btn-primary">Join Us</button></a>
+      </li>
+      <li class="nav-item">
+        <a href="https://secure.actblue.com/donate/cosgrove" target="_blank"><button type="button" class="btn btn-primary">Donate</button></a>
+      </li>
+      
+    </ul>
+    
+  </div>
+</nav>
+
+<h1>Meet Jewelyn</h1>
+
+<h2>New Leadership</h2>
+
+<p>Jewelyn Cosgrove is a veteran political advocate and policy professional. From a young age, Jewelyn was interested in public policy and public service.</p>
+
+<h3>Jewelyn's Message</h3>
+
+<p>As a mother of a young child and an Alexandrian in the midst of building a life for my growing family here in this community, I am focused on how our school system can meet the needs of the current and future student body. I am a product of public schools and believe education and a quality, safe, and diverse school environment is the great equalizer in our society – one that deserves our attention, dedication, and commitment to consistent growth and improvement. I have an innate desire to be a problem-solver, to step back and look at the big picture, and strive to find common ground by identifying shared goals. This perspective, a new, fresh, current and vested interest in the school board is a much-needed voice to add to our civic dialogue.</p>
+
+<p>I believe there is chronic inattention paid to the immense task we put before our school system and educators. It’s about more than a quality education. We ask our schools, our teachers and administrators, to help us solve a vast array of issues within our communities. The school system is fundamentally the most direct and far-reaching governmental element of our society in shaping the community we want to live within. Our schools are where we expect to support students with adequate nutrition, job training, social and emotional support, and access to technology and information – it’s about so much more than just academic achievement and our budget priorities and work must reflect that. I want to ensure our policies reflect the community value we expect to derive from our school system in addition to the academic value.</p>
+
+<p>With redistricting recently completed and the transition process beginning for many families, and with new schools on the horizon for our city, we need to be more innovative and creative in how we address overcrowding, especially within resource constraints. While we look for results in reducing overcrowding in Alexandria with the redistricting decision, we must also support teachers and administrators in managing those schools still experiencing crowding issues – ideas like expanding tutoring programs for students falling behind in outsized classrooms and helping teachers meet their planning needs for more students in their class</p>
